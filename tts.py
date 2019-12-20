@@ -7,6 +7,5 @@ import sys
 engine = pyttsx3.init() 
   
 # testing 
-#engine.say("佐川が来ましたよ") 
 engine.say("ご清聴ありがとうございました。") 
 engine.runAndWait() 
